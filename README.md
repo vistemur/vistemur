@@ -12,5 +12,5 @@ My main tech stack: Swift, javascript, C/C++, Java + anything reqired for my wor
 
 * I have over 20 board games
 * I prefer tea over coffee
-* **Hobbies:** ballet, cycling, computer games <img src="https://emojis.slackmojis.com/emojis/images/1643514299/2704/overwatch.png" width="25"/>
+* **Hobbies:** ballet, cycling, computer games <img src="https://emojis.slackmojis.com/emojis/images/1643514299/2704/overwatch.png" width="13"/>
 * Ex [Kaspersky](https://www.kaspersky.com) developer
