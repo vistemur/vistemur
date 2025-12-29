@@ -6,6 +6,8 @@ Love making games and computer graphics stuff 🎨
 
 My main tech stack: Swift, javascript, C/C++, Java + anything reqired for my work
 
+I love solving coding challenges, just chek out my [cedewars](https://www.codewars.com/users/vistemur)
+
 🔭 I’m currently working on  [game of life](https://github.com/vistemur/gameOfLife) project
 
 #### Facts about me:
