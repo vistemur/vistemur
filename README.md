@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif" width="25"/>
 
-<!--
-**vistemur/vistemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ani, IOS engineer
 
-Here are some ideas to get you started:
+Love making games and computer graphics stuff 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack: Swift, javascript, C/C++, Java + anything reqired for my work
+
+🔭 I’m currently working on  (game of life)[https://github.com/vistemur/gameOfLife] project
+
+#### Facts about me:
+
+* I have over 20 board games
+* I prefer tea over coffee
+* **Hobbies:** ballet, cycling, computer games <img src="https://emojis.slackmojis.com/emojis/images/1643514299/2704/overwatch.png" width="25"/>
+* Ex (Kaspersky)[https://www.kaspersky.com] developer
